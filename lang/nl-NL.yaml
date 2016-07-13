@@ -1,13 +1,10 @@
 locale: nl
 phrases:
     scenes:
-        TOMArchitecturalStyles:
-            name: Architectuurstijlen
+        TOMArchitecturalTypology:
+            name: Architectuur tiepologiën
             group: Architectuur
             description: >
-                Deze kaart laat architectuurstijlen van gebouwen zien.
+                Deze kaart laat architectuurtiepologiën van gebouwen zien.
                 Bij het uitzoomen laat de kaart alleen grotere gebouwen zien.
-                De kaart is bijzonder gedetailleerd in Ng'Ambo, Zanzibar. In Nederland
-                zijn er momenteel maar 8 gebouwen waar de stijl van bekend is in OpenStreetMap.
-            stone_town:
-                title: Stone Town
+                De kaart is bijzonder gedetailleerd in Ng'Ambo, Zanzibar.
